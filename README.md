@@ -1,4 +1,4 @@
-a# About the project
+# About the project
 
 This project was created as a take-home task for a job application process at Alvaria.
 
@@ -27,7 +27,6 @@ Output is a probabilistic prediction between 0 and 1.
 
 Jupyter Notebook is required to run the script.
 Get Jupyter Notebook here: [https://jupyter.org/install](https://jupyter.org/install)
-
 ### Install the dependencies
 
 `python3 -m pip install -r requirements.txt`
